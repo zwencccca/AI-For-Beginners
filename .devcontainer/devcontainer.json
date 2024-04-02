@@ -8,7 +8,7 @@
 		}
 	},
 
-	"hostRequirements": { "cpus": 4, "memory": "16gb", "storage": "32gb"},
+	"hostRequirements": { "cpus": 4, "memory": "8gb", "storage": "16gb"},
 
 	// Configure tool-specific properties.
 	"customizations": {
